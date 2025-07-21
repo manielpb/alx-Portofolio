@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+img{
+    margin-left: 200px;
+    width: 30vw;
+    heigh;50vh
+}
